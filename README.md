@@ -2,6 +2,60 @@
 
 # NotebookLM_Playground 🚀
 
+```PLAINTEXT
+
+NotebookLM_Playground/
+│
+├── README.md                      # Overview of the repo + how to use NotebookLM
+├── LICENSE                        # Open source license (MIT/Apache)
+│
+├── docs/                          # Guides, workflows, and instructions
+│   ├── 01_intro_notebooklm.md     # What is NotebookLM? Features + use-cases
+│   ├── 02_setup.md                # How to access + set up NotebookLM
+│   ├── 03_import_sources.md       # How to upload CVs, PDFs, Docs, Slides
+│   ├── 04_generate_outputs.md     # Reports, Flashcards, Quizzes, Mindmaps
+│   ├── 05_audio_video.md          # AI Audio/Video overviews
+│   └── glossary.md
+│
+├── sources/                       # Example sources uploaded to NotebookLM
+│   ├── CV_ITS.pdf                 # Intelligent Transportation Systems CV
+│   ├── sample_traffic_data.pdf    # Example dataset
+│   └── smart_mobility_article.pdf # Research paper
+│
+├── outputs/                       # NotebookLM generated outputs
+│   ├── reports/
+│   │   ├── ITS_CV_Report.md
+│   │   ├── EV_Integration_Report.md
+│   │   └── Smart_Mobility_Insights.md
+│   ├── flashcards/
+│   │   ├── ITS_CV_Flashcards.md
+│   │   └── EV_Flashcards.md
+│   ├── quizzes/
+│   │   ├── ITS_Specialist_Quiz.md
+│   │   └── SmartCities_Quiz.md
+│   └── mindmaps/
+│       ├── ITS_CV_Mindmap.png
+│       └── Traffic_AI_Flow.png
+│
+├── links/                         # Direct links to NotebookLM outputs
+│   ├── notebooklm_projects.md     # Links to saved projects/workspaces
+│   └── external_references.md     # Links to Google Docs, Slides, Kaggle, etc.
+│
+├── notebooks/                     # Jupyter/Colab notebooks related to NotebookLM
+│   ├── analyze_outputs.ipynb      # Post-process NotebookLM outputs
+│   ├── visualize_mindmaps.ipynb   # Convert mindmaps into graphviz/plotly
+│   └── quiz_generator.ipynb       # Create quizzes from NotebookLM exports
+│
+└── images/                        # Logos, diagrams, and infographics
+    ├── notebooklm_logo.png
+    ├── its_cv_flow.png
+    └── smart_mobility_map.png
+
+
+
+
+```
+
 This repo is a **playground for experimenting with Google NotebookLM** — 
 Google’s AI-powered note-taking and source-based learning tool.  
 
