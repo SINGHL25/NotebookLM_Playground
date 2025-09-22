@@ -1,7 +1,9 @@
 
 
 # NotebookLM_Playground 🚀
-![Uploading Generated Image September 23, 2025 - 5_58AM.png…]()
+
+<img width="1024" height="1024" alt="Generated Image September 23, 2025 - 5_58AM" src="https://github.com/user-attachments/assets/14424b7a-4ec4-4be8-8bd6-0b8fb5f777dd" />
+
 
 
 ```PLAINTEXT
